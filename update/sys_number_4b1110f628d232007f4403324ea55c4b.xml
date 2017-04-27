@@ -8,7 +8,7 @@
         <sys_class_name>sys_number</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-04-26 16:42:00</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>4b1110f628d232007f4403324ea55c4b</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>LNR</sys_name>
